@@ -236,15 +236,22 @@ Full-stack project management application with Kanban boards, RBAC, real-time Fi
 
 <br>
 
+## `> education`
+
+| | Degree | Institution |
+|:---:|:---|:---|
+| 🏛️ | **M.Tech in Artificial Intelligence** | **IIT Roorkee** — *Mehta Family School of Data Science and Artificial Intelligence* (2026–2028) |
+| 🎓 | **B.E. in Computer Science** | **KBTCOE, Nashik** — *CGPA: 8.72* (2022–2026) |
+
+<br>
+
 ## `> achievements`
 
-| | Achievement | Detail |
+| | Milestone | Detail |
 |:---:|:---|:---|
-| 🏛️ | **M.Tech AI - IIT Roorkee** | Dept. of Computer Science & Engineering, 2026–2028 |
-| 📊 | **GATE CSE 2026** | All India Rank **994** |
-| 🎓 | **B.E. in Computer Science** | KBTCOE, Nashik - CGPA **8.72** |
-| 🔒 | **IP Filing** | SteganoGAN architecture - Diary No. LD-7768/2026-CO *(under scrutiny)* |
-| 🏸 | **Badminton** | 1st Position, Singles & Doubles - Fusion 2025, KBTCOE |
+| 📊 | **GATE CSE 2026** | Secured All India Rank **994** |
+| 🔒 | **IP Filing (Copyright)** | SteganoGAN Architecture — *Diary No. LD-7768/2026-CO* |
+| 🏸 | **Sports** | 1st Position, Badminton (Singles & Doubles) — *Fusion 2025, KBTCOE* |
 
 <br>
 
