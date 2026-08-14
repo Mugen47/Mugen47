@@ -220,18 +220,13 @@ Full-stack project management application with Kanban boards, RBAC, real-time Fi
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mugen47&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00D4FF&icon_color=6366F1&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mugen47&theme=transparent&hide_border=true&ring=00D4FF&fire=DC2626&currStreakLabel=00D4FF&sideLabels=c9d1d9&sideNums=e0e0e0&dates=6e7681" width="100%" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugen47&bg_color=transparent&title_color=00D4FF&text_color=c9d1d9&icon_color=6366F1" width="100%" alt="Profile Details" />
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mugen47&layout=compact&hide_border=true&theme=transparent&title_color=00D4FF&text_color=c9d1d9&langs_count=8" width="420" alt="Top Languages" />
+<br><br>
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mugen47&layout=compact&hide_border=true&theme=transparent&title_color=00D4FF&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mugen47&theme=transparent&hide_border=true&ring=00D4FF&fire=DC2626&currStreakLabel=00D4FF&sideLabels=c9d1d9&sideNums=e0e0e0&dates=6e7681" width="48%" alt="GitHub Streak" />
 
 <br><br>
 
