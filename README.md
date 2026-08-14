@@ -222,11 +222,11 @@ Full-stack project management application with Kanban boards, RBAC, real-time Fi
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mugen47&show_icons=true&hide_border=true&theme=transparent&title_color=00D4FF&icon_color=6366F1&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mugen47&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00D4FF&icon_color=6366F1&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
 </td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=Mugen47&theme=transparent&hide_border=true&ring=00D4FF&fire=DC2626&currStreakLabel=00D4FF&sideLabels=c9d1d9&sideNums=e0e0e0&dates=6e7681" width="100%" alt="GitHub Streak" />
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mugen47&theme=transparent&hide_border=true&ring=00D4FF&fire=DC2626&currStreakLabel=00D4FF&sideLabels=c9d1d9&sideNums=e0e0e0&dates=6e7681" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
